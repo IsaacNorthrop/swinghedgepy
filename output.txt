@@ -1,0 +1,80 @@
+Matchup:
+Texas Rangers vs. Oakland Athletics
+Pitcher: 
+No announced pitcher.
+Matchup:
+Minnesota Twins vs. Miami Marlins
+Pitcher: 
+No announced pitcher.
+Matchup:
+Chicago White Sox vs. Los Angeles Angels
+Pitcher: 
+Flexen, Chris
+Matchup:
+Oakland Athletics vs. Texas Rangers
+Pitcher: 
+No announced pitcher.
+Matchup:
+Los Angeles Dodgers vs. San Diego Padres
+Pitcher: 
+Buehler, Walker
+Matchup:
+New York Yankees vs. Baltimore Orioles
+Pitcher: 
+Cole, Gerrit
+Matchup:
+Los Angeles Angels vs. Chicago White Sox
+Pitcher: 
+Anderson, Tyler
+Matchup:
+Baltimore Orioles vs. New York Yankees
+Pitcher: 
+Burnes, Corbin
+Matchup:
+Miami Marlins vs. Minnesota Twins
+Pitcher: 
+No announced pitcher.
+Matchup:
+Pittsburgh Pirates vs. Milwaukee Brewers
+Pitcher: 
+Keller, Mitch
+Matchup:
+Tampa Bay Rays vs. Detroit Tigers
+Pitcher: 
+Alexander, Tyler
+Matchup:
+San Diego Padres vs. Los Angeles Dodgers
+Pitcher: 
+Musgrove, Joe
+Matchup:
+St. Louis Cardinals vs. Colorado Rockies
+Pitcher: 
+Gibson, Kyle
+Matchup:
+Detroit Tigers vs. Tampa Bay Rays
+Pitcher: 
+Olson, Reese
+Matchup:
+Washington Nationals vs. Kansas City Royals
+Pitcher: 
+Corbin, Patrick
+Matchup:
+Milwaukee Brewers vs. Pittsburgh Pirates
+Pitcher: 
+Civale, Aaron
+Matchup:
+Colorado Rockies vs. St. Louis Cardinals
+Pitcher: 
+Freeland, Kyle
+Matchup:
+Atlanta Braves vs. New York Mets
+Pitcher: 
+Fried, Max
+Matchup:
+New York Mets vs. Atlanta Braves
+Pitcher: 
+Manaea, Sean
+Matchup:
+Kansas City Royals vs. Washington Nationals
+Pitcher: 
+Wacha, Michael
